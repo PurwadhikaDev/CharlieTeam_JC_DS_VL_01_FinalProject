@@ -1,5 +1,5 @@
 # **CharlieTeam - Hotel Bookings**
-Felicya Antoni - Patricio Kresna
+Felicya Antoni - Patricio Kresnatama
 
 # **Table of Content**
 - Introduction
